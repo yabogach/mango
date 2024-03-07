@@ -110,28 +110,28 @@ body {
 }
 
 @font-face {
-    font-family: Montserrat;
+    font-family: Graphik;
     src: url('fonts/Graphik-Medium-Desktop.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: Montserrat;
+    font-family: Graphik;
     src: url('fonts/Graphik-Bold-Desktop.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
-    font-family: Montserrat;
+    font-family: Graphik;
     src: url('fonts/Graphik-Regular-Desktop.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: Montserrat, serif;
+    font-family: Graphik, sans-serif;
     font-style: normal;
     font-size: 16px;
 }
@@ -208,6 +208,13 @@ h1 {
     line-height: 100px;
     margin-top: 5px;
     margin-left: -6px;
+}
+
+b {
+    font-family: Graphik, sans-serif;
+    font-weight: bold;
+}
+
 }
 
 .buy-1 {
