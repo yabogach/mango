@@ -105,7 +105,7 @@ section {
 body {
     background-color: black;
     color: #fff;
-    max-width: 960px;
+    width: 960px;
     margin: auto;
 }
 
