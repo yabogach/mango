@@ -115,11 +115,6 @@ body {
     width: 960px;
     margin: auto;
 }
-.buy-1 {
-    margin-left: 3px;
-    margin-top: 76px;
-    display: flex;
-}
 
 @font-face {
     font-family: Graphik;
